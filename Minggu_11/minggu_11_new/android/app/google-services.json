@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240414862133",
+    "project_id": "fir-auth-e217c",
+    "storage_bucket": "fir-auth-e217c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240414862133:android:be67bfe013af7d299dfa7c",
+        "android_client_info": {
+          "package_name": "com.example.minggu_11_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240414862133-84uu341tllcb1d32iae6j08ntaquhtpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVQlVDxOBqoypPUZxlGwQZn7jtwP_g4o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240414862133-84uu341tllcb1d32iae6j08ntaquhtpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
